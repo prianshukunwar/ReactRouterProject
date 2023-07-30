@@ -1,0 +1,62 @@
+/* @import url('https://fonts.cdnfonts.com/css/satoshi'); */
+
+* {
+  box-sizing: border-box;
+}
+html {
+  /* font-family: "Satoshi", sans-serif; */
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  /* font-family: sans-serif; */
+  margin: 0;
+  background-color: white;
+}
+
+.centered {
+  margin: 3rem auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.focused {
+  font-size: 3rem;
+  font-weight: bold;
+  color: white;
+}
+
+.btn {
+  text-decoration: none;
+  background-color: #150941;
+  color: white;
+  border-radius: 4px;
+  padding: 0.75rem 1.5rem;
+  border: 1px solid teal;
+  cursor: pointer;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #4e3e86;
+  border-color: #11acac;
+}
+
+.btn--flat {
+  cursor: pointer;
+  font: inherit;
+  color: #150941;
+  border: none;
+  background-color: none;
+  text-decoration: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+}
+
+.btn--flat:hover,
+.btn--flat:active {
+  background-color: #150941;
+  color: #f80040;
+}

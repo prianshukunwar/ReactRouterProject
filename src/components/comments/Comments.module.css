@@ -1,0 +1,14 @@
+.comments {
+  text-align: center;
+}
+
+.comments > button {
+  font-size: 1.25rem;
+  background-color: #150941;
+  color: white;
+  font-weight: 600;
+}
+
+.comments > button:hover {
+  background-color: #3e2b85;
+}
