@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prianshukunwar/ReactRouterProject/static/css/main.6765fb8b.css",
+    "main.js": "/prianshukunwar/ReactRouterProject/static/js/main.f06469a9.js",
+    "index.html": "/prianshukunwar/ReactRouterProject/index.html",
+    "main.6765fb8b.css.map": "/prianshukunwar/ReactRouterProject/static/css/main.6765fb8b.css.map",
+    "main.f06469a9.js.map": "/prianshukunwar/ReactRouterProject/static/js/main.f06469a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6765fb8b.css",
+    "static/js/main.f06469a9.js"
+  ]
+}
